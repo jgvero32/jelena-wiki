@@ -1,0 +1,14 @@
+import './Home.css';
+
+export const Home = () => {
+  return (
+    <div className="container">
+        <div className="banner">
+            <svg width="700" height="113" viewBox="0 0 973 113" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M926.819 56.4245L969.921 111.5H1.5V1.5H969.853L926.835 54.5553L926.082 55.4835L926.819 56.4245Z" fill="white" stroke="#53A2BE" stroke-width="3"/>
+            </svg>
+            <div className="jacques-francois-shadow-regular header-title"> welcome, internet travelor. </div>
+        </div>
+    </div>
+  );
+}

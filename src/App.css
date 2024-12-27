@@ -1,6 +1,76 @@
 .App {
   text-align: center;
 }
+body {
+  background-color: #01172F;
+}
+
+.vector1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.vector2 {
+  position: absolute;
+  top: 0;
+  left: 40%;
+}
+
+.vector3 {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+.vector4 {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+
+.vector5 {
+  position: absolute;
+  bottom: 0;
+  left: 40%;
+}
+
+.vector6 {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+
+.parent-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+/* font for nav bar and other things */
+.jacques-francois-shadow-regular {
+  font-family: "Jacques Francois Shadow", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.header-title {
+  font-size: 3em;
+  color: #84596B;
+  position: absolute;
+  top: 0.5em;
+  left: 0.2em;
+}
+
+.rectangle {
+  width: 93%;
+  height: 85%;
+  background-color: white;
+  border-radius: 10px;
+  border: 5px solid #84596B;
+  z-index: 1; 
+  position: relative;
+}
 
 .App-logo {
   height: 40vmin;
