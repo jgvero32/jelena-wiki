@@ -45,13 +45,38 @@ img {
     .navbar-link {
         font-size: 12px;
     }
-
     .fontsize {
-        font-size: 20px;
+        font-size: 18px;
+    }
+    .navbar .right {
+        gap: 0.4em;
+        margin-right: -0.3em;
+    }
+    img {
+        width: 3em;
+        height: auto;
+    }
+    .navbar {
+        gap: 0.5em;
+    }
+}
+
+@media (max-width: 420px) {
+    .navbar-link {
+        font-size: 10px;
+    }
+    .fontsize {
+        font-size: 15px;
     }
     .navbar .right {
         gap: 0.4em;
         margin-right: 0em;
     }
-
+    img {
+        width: 2em;
+        height: auto;
+    }
+    .navbar {
+        gap: 0.5em;
+    }
 }
