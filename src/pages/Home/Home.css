@@ -2,12 +2,55 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  /* position: absolute; */
-  /* top: 4em;
-  left: 2em; */
+  flex-direction: column;
 }
 
-.banner {
-  /* position: relative; */
-  /* margin-top: 7%; */
+.horizontal-text-body {
+  width: 60vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  gap: 7vw; 
+}
+
+.text {
+  display: flex;
+  flex-direction: column;
+  gap: 1em;
+  font-size: 1.2vw;
+}
+
+.first-paragraph {
+  margin-top: 1.6vw;
+}
+
+.jelena-pic-box {
+  width: 50vw;
+  height: 21vw;
+  border: 0.2vw solid #53A2BE;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.jelena-image {
+  width: 80%;
+  height: 80%;
+  object-fit: cover;
+  object-position: 100% 30%;
+  border: 0.2vw solid #53A2BE;
+}
+
+.letter-h-and-text {
+  display: flex;
+  flex-direction: row;
+  gap: 0.5em;
+}
+
+.jelena-pic-caption{
+  font-size: 0.8vw;
+  width: 15vw;
+  margin-left: 1.8em;
 }

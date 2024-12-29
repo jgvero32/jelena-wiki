@@ -56,10 +56,41 @@ body {
   font-style: normal;
 }
 
+/* font for body text */
+.halant-light {
+  font-family: "Halant", serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.halant-regular {
+  font-family: "Halant", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.halant-medium {
+  font-family: "Halant", serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.halant-semibold {
+  font-family: "Halant", serif;
+  font-weight: 600;
+  font-style: normal;
+}
+
+.halant-bold {
+  font-family: "Halant", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
 .header-title {
   color: #84596B;
   position: relative;
-  font-size: 5vw;
+  font-size: 4.5vw;
   margin-top: 70px;
 }
 
