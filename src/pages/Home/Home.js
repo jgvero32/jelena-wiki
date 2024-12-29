@@ -31,14 +31,16 @@ export const Home = () => {
                   </div>
                 </div>
               </div>
-              {/* <div className="jelena-pic"> */}
-                <div className="jelena-pic-box">
-                  <img className="jelena-image" src="jelena-pic.JPG" alt="jelena-pic" />
-                  <div className="jelena-pic-caption">
-                    <div className="halant-bold"> Jelena accidentally wearing a black sweater on a warm September day</div>
-                  </div>
+              <div className="jelena-pic-box">
+                <img className="jelena-image" src="jelena-pic.JPG" alt="jelena-pic" />
+                <div className="jelena-pic-caption">
+                  <div className="halant-bold"> Jelena accidentally wearing a black sweater on a warm September day</div>
                 </div>
-              {/* </div> */}
+              </div>
+            </div>
+            <div className="fireplace-area">
+                <img className="sofachair" src="sofachair.png" alt="sofa" />
+                <img className="fireplace" src="fireplace.png" alt="fireplace" />
             </div>
     </div>
   );

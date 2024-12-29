@@ -54,3 +54,26 @@
   width: 15vw;
   margin-left: 1.8em;
 }
+
+.fireplace-area {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  gap: 1em;
+}
+
+.fireplace {
+  width: 12vw;
+  height: 12vw;
+  margin-right: 0.5em;
+}
+
+.sofachair {
+  width: 8vw;
+  height: 8vw;
+  position: relative;
+  top: 2.5vw;
+}
