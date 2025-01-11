@@ -85,10 +85,10 @@ export const Experience = () => {
           <img className="uic" src="uic-department-of-cs.svg" alt="UIC Department of CS" />
             <div className="title-and-date">
               <div className="halant-bold">
-                Software Engineer Intern
+                Teaching Assistant
               </div>
               <div className="jacques-francois-shadow-regular all-the-way-right">
-                May 2023 - August 2023
+                January 2023 - Present
               </div>
             </div>
             <div className="halant-regular scooch-right">
