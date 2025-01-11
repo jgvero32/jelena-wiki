@@ -1,0 +1,43 @@
+.wics-logo {
+    width: 13%;
+    height: 13%;
+}
+
+.sparkhacks2024-logo {
+    width: 17%;
+    height: auto;
+    aspect-ratio: 1 / 1;
+    object-fit: cover;
+    position: relative;
+    top: 20px;
+}
+
+.sparkhacks2023-logo {
+    width: 19%;
+    height: auto;
+    aspect-ratio: 1 / 1;
+    object-fit: cover;
+    position: relative;
+    top: 20px;
+    left: -28px;
+}
+
+.team-image {
+    width: 80%;
+    height: 80%;
+    object-fit: contain;
+    border: 0.2vw solid #53A2BE;
+}
+
+.board-image {
+    width: 80%;
+    height: 80%;
+    object-fit: contain;
+    border: 0.2vw solid #53A2BE;
+}
+
+horizontal-images {
+    display: flex;
+    flex-direction: row;
+    gap: 5vw;
+}
