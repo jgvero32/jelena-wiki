@@ -102,6 +102,5 @@ body {
   border: 5px solid #84596B;
   z-index: 1; 
   position: relative;
+  overflow: auto;
 }
-
-
