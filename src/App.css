@@ -88,9 +88,10 @@ body {
 }
 
 .header-title {
+  margin-bottom: 0.4em;
   color: #84596B;
   position: relative;
-  font-size: 4.5vw;
+  font-size: 4vw;
   margin-top: 70px;
 }
 
