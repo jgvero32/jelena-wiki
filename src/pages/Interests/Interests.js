@@ -27,7 +27,7 @@ export const Interests = () => {
             <div className="job-pic-box">
                 <img className="board-image" src="wics-board.JPEG" alt="WiCS Board" />
                 <div className="job-pic-caption">
-                  <div className="halant-bold"> WiCS 2024 Secret Santa Executive Board Social (taken on my digital camera I adore hehe)!</div>
+                  <div className="halant-bold"> WiCS 2024 Exec Board Secret Santa (taken on my digital:))</div>
                 </div>
             </div>
           </div>
