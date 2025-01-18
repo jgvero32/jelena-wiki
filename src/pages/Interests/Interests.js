@@ -20,7 +20,7 @@ export const Interests = () => {
             </div>
             <div className="halant-regular scooch-right">
               <li>Was mentored...then became a mentor, met a ton of sweet, smart people with cool perspectives on computer science and life!</li>
-              <li>Love sharing everything I’ve learned and encouraging people to succeed by pave a new path for themselves in their own way.</li>
+              <li>Love sharing everything I’ve learned and encouraging people to succeed by paving a new path for themselves in their own way.</li>
             </div>
             </div>
 
